@@ -14,19 +14,19 @@ The project is organized into several key files:
 
 - main.c - Serves as the game’s entry point.
 
-- source/settings.c - Manages the game’s settings interface and configuration options.
+- src/settings.c - Manages the game’s settings interface and configuration options.
 
-- source/gameplay.c - Contains the primary game mechanics.
+- src/gameplay.c - Contains the primary game mechanics.
 
-- source/board.c - Handles the game board’s rendering and updates.
+- src/board.c - Handles the game board’s rendering and updates.
 
-- source/snake.c - Defines the snake’s structure and gameplay logic.
+- src/snake.c - Defines the snake’s structure and gameplay logic.
 
-- source/static_obstacles.c - Defines the static obstacles' structure and gameplay logic.
+- src/static_obstacles.c - Defines the static obstacles' structure and gameplay logic.
 
-- source/dynamic_obstacles.c - Defines the dynamic obstacles' structure and gameplay logic.
+- src/dynamic_obstacles.c - Defines the dynamic obstacles' structure and gameplay logic.
 
-- source/helpers.c - Provides various utility functions.
+- src/helpers.c - Provides various utility functions.
 
 
 ## Design Choices
